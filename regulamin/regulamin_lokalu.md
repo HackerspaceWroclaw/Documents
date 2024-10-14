@@ -8,7 +8,7 @@ header-includes:
 - \pagenumbering{gobble}
 
 title: "Regulamin Lokalu Hackerspace Wrocław"
-author: "z dnia 10 października 2024 r."
+author: "z dnia 14 października 2024 r."
 ---
 
 Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stowarzyszenia Hackerspace Wrocław - zarówno Członków, jak i osoby odwiedzające. Osoby nie będące Członkami Stowarzyszenia mogą przebywać w lokalu tylko pod obecność Członka.
