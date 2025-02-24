@@ -2,11 +2,13 @@
 \usepackage[OT4]{fontenc}
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\setlist[enumerate,1]{label=\arabic*., ref=\arabic*}
+\setlist[enumerate,2]{label=\theenumi.\arabic*., ref=\theenumi.\arabic*}
+\setlist[enumerate,3]{label=\theenumii.\arabic*., ref=\theenumii.\arabic*}
 
 \renewcommand{\thesection}{§ \Roman{section}.}
-\renewcommand{\labelenumi}{\arabic{enumi}.}
-\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
-\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 
 \begin{document}
 \section{POSTANOWIENIA OGÓLNE}
@@ -88,20 +90,35 @@
         \item pisemnej rezygnacji złożonej na ręce Zarządu,
         \item wykluczenia z grona Członków przez Zarząd z powodu:
           \begin{enumerate}
-            \item łamania statutu lub nieprzestrzegania uchwał władz Stowarzyszenia,
+            \item łamania statutu lub nieprzestrzegania uchwał władz Stowarzyszenia, \label{utrata-czlonkostwa-begin}
             \item unikania lub notorycznego braku udziału w pracach Stowarzyszenia,
             \item łamania zasad współpracy ze Stowarzyszeniem,
             \item braku wpłat składek członkowskich za okres trzech miesięcy,
             \item łamania zasad współżycia społecznego,
             \item działania na szkodę Stowarzyszenia,
-            \item śmierci członka.
+            \item śmierci członka. \label{utrata-czlonkostwa-end}
           \end{enumerate}
-        \item Utrata członkostwa następuję na podstawie uchwały Zarządu.
-        \item Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zebrania Członków.
-          \begin{enumerate}
-            \item Odwołanie powinno zostać przekazane Zarządowi w formie pisemnej w terminie 14 dni od chwili poinformowania zainteresowanego o treści uchwały Zarządu.
-            \item Decyzja Walnego Zebrania Członków jest ostateczna i wchodzi w życie w trybie natychmiastowym.
-          \end{enumerate}
+        \item {[uchylono]}
+        \item {[uchylono]}
+      \end{enumerate}
+      \item Utrata członkostwa przez członka zwyczajnego następuje na podstawie uchwały Zarządu.
+      \begin{enumerate}
+        \item Przed podjęciem uchwały o wykluczeniu z grona członków z powodów wskazanych w \ref{utrata-czlonkostwa-begin}-\ref{utrata-czlonkostwa-end} Zarząd zobowiązany jest: \label{przed-usunieciem-czlonka}
+        \begin{enumerate}
+          \item poinformować Komisję Rewizyjną o planowanym wykluczeniu członka,
+          \item przeprowadzić formalną rozmowę dyscyplinującą z członkiem którego dotyczy sprawa,
+          \item w wypadku występowania sytuacji konfliktowej, zorganizować w trybie formalnym mediacje pomiędzy członkiem, którego dotyczy sprawa i pozostałymi stronami konfliktu - mediacja ma na celu zażegnanie konfliktu w sposób bezstronny oraz polubowny,
+          \item dokonać wpisu do ewidencji członków o przeprowadzonej rozmowie dyscyplinującej lub mediacji oraz poinformować o tym fakcie Komisję Rewizyjną,
+          \item umożliwić członkowi poprawę zachowania i wstrzymać podjęcie uchwały o wykluczeniu z grona członków do czasu stwierdzenia kolejnych naruszeń.
+        \end{enumerate}
+        \item Obowiązek o którym mowa w \ref{przed-usunieciem-czlonka} nie występuje w sytuacjach nagłych, kiedy doszło do skrajnie rażących naruszeń.
+        \item Zarząd może delegować zadania opisane w \ref{przed-usunieciem-czlonka}.
+      \end{enumerate}
+      \item Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zebrania Członków.
+      \begin{enumerate}
+        \item Odwołanie powinno zostać przekazane Zarządowi w formie pisemnej w terminie 14 dni od chwili skutecznego poinformowania zainteresowanego o treści uchwały Zarządu.
+        \item Do czasu rozpatrzenia odwołania przez Walne Zebranie Członków Członek Zwyczajny pozostaje zawieszony w prawach członka. Zawieszenie nie dotyczy praw wyborczych. Wszelkie odwołania od uchwały Zarządu w sprawie pozbawienia członkostwa powinny zostać rozpatrzone przez Walne Zebranie Członków przed przeprowadzeniem wyborów do władz Stowarzyszenia.
+        \item Decyzja Walnego Zebrania Członków jest ostateczna i wchodzi w życie w trybie natychmiastowym.
       \end{enumerate}
   \end{enumerate}
 \section{WŁADZE}
