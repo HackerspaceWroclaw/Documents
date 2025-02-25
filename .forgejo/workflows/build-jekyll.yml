@@ -1,0 +1,16 @@
+on:
+  push:
+  pull_request:
+    types: [opened, synchronize, reopened]
+jobs:
+  statut:
+    runs-on: docker
+    container:
+      image: git.hswro.org/hswro/documents_build:latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: cd statut && latexmk "Statut HSWro.tex"
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "Statut HSWro"
+          path: "statut/Statut HSWro.pdf"
