@@ -77,7 +77,7 @@ Zebraniu Członków.
  8. W głosowaniu tajnym nad analogiczną propozycją na kartce wpisuje się jedną z następujących opcji: za przyjęciem poszczególnych rozwiązań („za propozycją nr 1”, „za propozycją nr 2”...) , osoby wstrzymujące się od głosu i osoby głosujące przeciwko wszystkim rozwiązaniom.
 === Rozpatrywanie spraw planu pracy i budżetu
 ==== § 13
-1. Wniesione pod obrady Walnego Zebrania Członków projekty planu pracy i budżetu rozpatrywane są zgodnie z § 10.
+1. (usunięto)
 === Wnioski formalne
 ==== § 14
 1. Przewodniczący zebrania może udzielić głosu poza porządkiem obrad Walnego Zebrania Członków lub w związku z dyskusją jedynie dla zgłoszenia wniosku formalnego lub sprostowania błędnie zrozumianego lub nieprecyzyjnie przytoczonego stwierdzenia mówcy.
