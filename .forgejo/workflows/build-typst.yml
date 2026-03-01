@@ -1,0 +1,16 @@
+on:
+  push:
+jobs:
+  build_typst_documents:
+    runs-on: docker
+    container:
+      image: git.hswro.org/fleg/typst:latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: find . \( -name '*.typ' \) -exec typst compile --root $(pwd) {} \;
+      - uses: actions/upload-artifact@v3
+        with:
+          compression-level: 9
+          name: pdfs
+          path: "**/*.pdf"
+
