@@ -50,8 +50,7 @@ stowarzyszenia, po uprzednim uzyskaniu zgody danego kandydata.
 1. Zgłoszenie kandydata do władz Stowarzyszenia następuje bezpośrednio na Walnym
 Zebraniu Członków.
 ==== §8
-1. W przypadku wybrania nowych Władz Stowarzyszenia, konstytuują się one w
-momencie wybrania.
+1. W przypadku wybrania nowych Władz Stowarzyszenia, konstytuują się one w dniu następującym po zamknięciu Walnego Zebrania Członków.
 === Odwołanie członków władz i wybory uzupełniające
 ==== §9
 1. W przypadku gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w wyniku odwołania na skutek działań określonych w statucie, Walne Zebranie Członków natychmiastowo przystępuje do wyborów uzupełniających Władze Wybieralne Stowarzyszenia.
