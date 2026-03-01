@@ -62,7 +62,7 @@ Zebraniu Członków.
 4. Głos nieważny liczy się przy obliczaniu kworum, lecz nie ma znaczenia dla wyników głosowania.
 5. Wszystkie głosowania Walnego Zebrania Członków są jawne, z wykluczeniem sytuacji opisanej w punkcie 6.
 6. Głosowanie tajne odbywa się na wniosek co najmniej jednego z członków stowarzyszenia.
-7. Decyzje podejmowane są zwykłą większością głosów w obecności co najmniej połowy uprawnionych do głosowania członków.
+7. Decyzje podejmowane są zwykłą większością głosów w obecności co najmniej połowy uprawnionych do głosowania członków, jesli niniejszy regulamin, bądź statut nie stanowią inaczej.
 === Przyjęcie uchwał
 ==== § 11
 1. Uchwały Walnego Zebrania, dla których nie zastrzeżono innego trybu wchodzą w życie z dniem ich uchwalenia.
