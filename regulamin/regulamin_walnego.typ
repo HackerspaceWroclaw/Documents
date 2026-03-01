@@ -22,7 +22,7 @@
 2. Sposób zwołania Walnego Zebrania Członków w trybie zwyczajnym/nadzwyczajnym określa Statut Stowarzyszenia.
 ==== §2
 1. Walne Zebranie Członków otwiera przedstawiciel Zarządu Stowarzyszenia, następnie zebrani głosują nad przyjęciem planu obrad i regulaminu zebrania z ewentualnymi poprawkami. Następnie Walne Zebranie Członków dokonuje wyboru Przewodniczącego Zebrania spośród obecnych członków w głosowaniu jawnym, zwykłą większością głosów.
-2. Wybrany Przewodniczący Zebrania zarządza przeprowadzenie wyboru 2 członków Komisji Skrutacyjnej, Wiceprzewodniczącego i sekretarza. Do wyborów na te stanowiska stosuje się odpowiednio przepisy o wyborze Przewodniczącego Zebrania.
+2. Wybrany Przewodniczący Zebrania zarządza przeprowadzenie wyboru 2 członków Komisji Skrutacyjnej, Wiceprzewodniczącego i Sekretarza. Do wyborów na te stanowiska stosuje się odpowiednio przepisy o wyborze Przewodniczącego Zebrania.
 3. Głosowanie nad wyborem Przewodniczącego i Wiceprzewodniczącego może być jawne jedynie, gdy żaden z członków nie wyrazi sprzeciwu wobec takiego trybu głosowania. Przepis niniejszy stosuje się odpowiednio przy wyborze sekretarzy i Komisji Skrutacyjnej.
 4. Prezydium Walnego Zebrania Członków składa się z:
  1. Przewodniczącego
