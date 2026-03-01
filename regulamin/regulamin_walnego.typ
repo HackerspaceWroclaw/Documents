@@ -21,8 +21,8 @@
 1. Regulamin obowiązuje zarówno Walne Zebranie Członków powołane w trybie zwyczajnym jak i nadzwyczajnym.
 2. Sposób zwołania Walnego Zebrania Członków w trybie zwyczajnym/nadzwyczajnym określa Statut Stowarzyszenia.
 ==== §2
-1. Walne Zebranie Członków otwiera przedstawiciel Zarządu Stowarzyszenia, następnie zebrani głosują nad przyjęciem planu obrad i regulaminu zebrania z ewentualnymi poprawkami. Następnie Walne Zebranie Członków dokonujeą wyboru Przewodniczącego Zebrania spośród obecnych członków w głosowaniu jawnym, zwykłą większością głosów.
-2. Wybrany Przewodniczący Zebrania zarządza przeprowadzenie wyboru 2 członków Komisji Skrutacyjnej, Wiceprzewodniczącego i          sekretarza. Do wyborów na te stanowiska stosuje się odpowiednio przepisy o wyborze Przewodniczącego Zebrania.
+1. Walne Zebranie Członków otwiera przedstawiciel Zarządu Stowarzyszenia, następnie zebrani głosują nad przyjęciem planu obrad i regulaminu zebrania z ewentualnymi poprawkami. Następnie Walne Zebranie Członków dokonuje wyboru Przewodniczącego Zebrania spośród obecnych członków w głosowaniu jawnym, zwykłą większością głosów.
+2. Wybrany Przewodniczący Zebrania zarządza przeprowadzenie wyboru 2 członków Komisji Skrutacyjnej, Wiceprzewodniczącego i sekretarza. Do wyborów na te stanowiska stosuje się odpowiednio przepisy o wyborze Przewodniczącego Zebrania.
 3. Głosowanie nad wyborem Przewodniczącego i Wiceprzewodniczącego może być jawne jedynie, gdy żaden z członków nie wyrazi sprzeciwu wobec takiego trybu głosowania. Przepis niniejszy stosuje się odpowiednio przy wyborze sekretarzy i Komisji Skrutacyjnej.
 4. Prezydium Walnego Zebrania Członków składa się z:
  1. Przewodniczącego
@@ -55,7 +55,7 @@ Zebraniu Członków.
 momencie wybrania.
 === Odwołanie członków władz i wybory uzupełniające
 ==== §9
-1. W przypadku gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w wyniku odwołania na skutek działań określonych w statucie, Walne Zebranie Członków natychmiastowo     przystępuje    do   wyborów     uzupełniających   Władze    Wybieralne Stowarzyszenia.
+1. W przypadku gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w wyniku odwołania na skutek działań określonych w statucie, Walne Zebranie Członków natychmiastowo przystępuje do wyborów uzupełniających Władze Wybieralne Stowarzyszenia.
 === Głosowanie
 ==== § 10
 1. Głosowanie jawne odbywa się przez podniesienie ręki; oddane głosy liczy Komisja Skrutacyjna.
