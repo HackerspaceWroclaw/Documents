@@ -1,19 +1,14 @@
----
-# configuration for pandoc - gathered from various sources online, mostly Stack Overflow
-geometry: a4paper,margin=1in
-fontsize: 12pt
-documentclass: extarticle
-pagestyle: empty
-header-includes:
-- \pagenumbering{gobble}
+#import "/typst/hswro.typ"
 
-title: "Regulamin Lokalu Hackerspace Wrocław"
-author: "z dnia 14 października 2024 r."
----
+#show: hswro.template.with(
+  document_date: datetime(year: 2024, month: 10, day: 14)
+)
+
+= Regulamin Lokalu Hackerspace Wrocław
 
 Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stowarzyszenia Hackerspace Wrocław - zarówno Członków, jak i osoby odwiedzające. Osoby nie będące Członkami Stowarzyszenia mogą przebywać w lokalu tylko pod obecność Członka.
 
-## Korzystanie z urządzeń
+== Korzystanie z urządzeń
 
 1. Wszystkie urządzenia, maszyny, narzędzia i materiały eksploatacyjne na stanowiskach pracy w Hackerspace są dostępne do użycia, chyba, że zostały opisane inaczej.
 
@@ -23,7 +18,7 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
 
 4. Korzystając z materiałów eksploatacyjnych o znacznej wartości (powyżej 50zł) należy pokryć ich koszty, zwłaszcza, gdy korzysta się z nich regularnie.
 
-## Bezpieczeństwo
+== Bezpieczeństwo
 
 1. Korzystając ze maszyn i urządzeń robisz to na własną odpowiedzialność i oświadczasz, że powiadasz odpowiednią wiedzę i przeszkolenie z zakresu bezpieczeństwa.
 
@@ -38,7 +33,7 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
     - Baterie LiPo o wątpliwym statusie - stare, napuchnięte, pozbawione obudowy, porzucone przez właściciela.
     - Przedmioty ostre (np. noże, dłuta) bez odpowiedniego zabezpieczenia ostrej krawędzi.
 
-## Porządek
+== Porządek
 
 1. Każda osoba korzystająca z lokalu ma obowiązek posprzątać po sobie. Dotyczy to m.in. umycia po sobie naczyń, posprzątania po lutowaniu, wyrzucenia wyprodukowanych śmieci, odkurzenia trocin, wytarcia rozlanych płynów. Wyprodukowane odpady wymagające utylizacji należy umieścić w odpowiednim pojemniku jeśli taki istnieje (np. elektrośmieci) lub zutylizować samodzielnie zgodnie z obowiązującymi przepisami (np. substancje chemiczne). Wszystkie użyte narzędzia i materiały należy po wykonanej pracy odłożyć na miejsce.
 
@@ -54,7 +49,7 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
 
 7. Hackerspace nie jest miejscem przynoszenia i składowania złomu elektronicznego i starych gratów.
 
-## Przedmioty prywatne
+== Przedmioty prywatne
 
 1. Wszystkie przedmioty prywatne powinny być opisane imieniem i nazwiskiem lub nickiem właściciela. Obowiązek opisania sprzętu, przechowywania go we właściwym miejscu, oraz zabezpieczenia go przed uszkodzeniem lub zagubieniem spoczywa na właścicielu.
 
@@ -63,3 +58,4 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
 3. Przedmioty prywatne nieprzeznaczone do użycia dla wszystkich powinny być trzymane w przestrzeni magazynowej dla członków. Każdemu członkowi przysługuje jedna półka na pudełko PAPPIS, na której należy trzymać porządek.
 
 4. Przedmioty porzucone trafią do pojemnika "lost+found", który po miesiącu okresu karencji zostanie rozgrabiony na rzecz Hackerspace i jego członków.
+
