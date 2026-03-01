@@ -43,7 +43,7 @@
 == Rozdział II
 === Sprawy wyborcze
 ==== §6
-1.Wybory władz są jawne, gdy żaden z członków nie wyrazi sprzeciwu wobec takiego trybu głosowania, bezpośrednie i następują spośród kandydatów zwykłą większością głosów.
+1.Wybory władz są jawne, gdy żaden z członków nie wyrazi sprzeciwu wobec takiego trybu głosowania, bezpośrednie i zapadają większością 2/3 uprawnionych do głosowania, przy obecności co najmniej 1/2 członków zwyczajnych Stowarzyszania.  // coś mi tu wyjątkowo nie pasuje językowo
 ==== §7
 1. Kandydatów do władz Stowarzyszenia mają prawo zgłaszać wszyscy członkowie
 stowarzyszenia, po uprzednim uzyskaniu zgody danego kandydata.
