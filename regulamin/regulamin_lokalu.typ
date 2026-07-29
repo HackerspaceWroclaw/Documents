@@ -1,7 +1,7 @@
-#import "/typst/hswro.typ"
+#import "@local/hswro:0.0.1"
 
 #show: hswro.template.with(
-  document_date: datetime(year: 2024, month: 10, day: 14)
+  document_date: datetime(year: 2024, month: 10, day: 14),
 )
 
 = Regulamin Lokalu Hackerspace Wrocław
@@ -26,12 +26,12 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
 
 3. Hackerspace nie jest miejscem na sprzęty i przedmioty, które łatwo mogą zrobić krzywdę użytkownikowi i sprzętom. Przykładami takich rzeczy są:
 
-    - Chemikalia w nieszczelnych pojemnikach.
-    - Substancje toksyczne w kontakcie (nawet w szczelnych pojemnikach).
-    - Elektronarzędzia pozbawione fabrycznie montowanych osłon elementów ruchomych.
-    - Urządzenia elektryczne, w których napięcia niebezpieczne nie są należycie osłonięte i istnieje ryzyko porażenia prądem.
-    - Baterie LiPo o wątpliwym statusie - stare, napuchnięte, pozbawione obudowy, porzucone przez właściciela.
-    - Przedmioty ostre (np. noże, dłuta) bez odpowiedniego zabezpieczenia ostrej krawędzi.
+  - Chemikalia w nieszczelnych pojemnikach.
+  - Substancje toksyczne w kontakcie (nawet w szczelnych pojemnikach).
+  - Elektronarzędzia pozbawione fabrycznie montowanych osłon elementów ruchomych.
+  - Urządzenia elektryczne, w których napięcia niebezpieczne nie są należycie osłonięte i istnieje ryzyko porażenia prądem.
+  - Baterie LiPo o wątpliwym statusie - stare, napuchnięte, pozbawione obudowy, porzucone przez właściciela.
+  - Przedmioty ostre (np. noże, dłuta) bez odpowiedniego zabezpieczenia ostrej krawędzi.
 
 == Porządek
 
@@ -58,4 +58,3 @@ Niniejszy regulamin obowiązuje wszystkie osoby korzystające z przestrzeni Stow
 3. Przedmioty prywatne nieprzeznaczone do użycia dla wszystkich powinny być trzymane w przestrzeni magazynowej dla członków. Każdemu członkowi przysługuje jedna półka na pudełko PAPPIS, na której należy trzymać porządek.
 
 4. Przedmioty porzucone trafią do pojemnika "lost+found", który po miesiącu okresu karencji zostanie rozgrabiony na rzecz Hackerspace i jego członków.
-

@@ -7,10 +7,9 @@ jobs:
       image: git.hswro.org/fleg/typst:latest
     steps:
       - uses: actions/checkout@v3
-      - run: find . \( -name '*.typ' \) -exec typst compile --root $(pwd) {} \;
+      - run: find . \( -name '*.typ' \) -exec typst compile {} \;
       - uses: actions/upload-artifact@v3
         with:
           compression-level: 9
           name: pdfs
           path: "**/*.pdf"
-

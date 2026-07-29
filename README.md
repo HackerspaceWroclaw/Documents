@@ -9,7 +9,7 @@ Typst is an easy to use markup format that can produce nice-looking documents, c
 ### Typst new document template
 
 ```
-#import "/typst/hswro.typ"
+#import "@local/hswro:0.0.1"
 
 #show: hswro.template.with(
   document_date: datetime.today()
@@ -22,21 +22,8 @@ Document contents
 
 ### Building the document locally
 
-In the main directory of this reporitory call:
-
-```sh
-typst compile --root (pwd) path/to/document.typ
-```
-
-#### Live preview
-
-You can use the live preview feature which regenerates the output file each time the document is saved using the `watch` command. A convenient setup pairs this with an auto-refreshing PDF reader, for example Okular.
-
-```sh
-typst watch --root (pwd) path/to/document.typ
-```
+Consult https://git.hswro.org/fleg/typst-package README to see how to build the documents.
 
 ### Building using Forgejo Actions
 
 Forgejo Actions will automatically build all `.typ` files found in this repository, compress them to a `.zip` file and provide in the job artifacts.
-
