@@ -1,7 +1,7 @@
-#import "/typst/hswro.typ"
+#import "@local/hswro:0.0.1"
 
 #show: hswro.template.with(
-  document_date: datetime.today()
+  document_date: datetime.today(),
 )
 
 // #set heading(numbering: )
@@ -25,9 +25,9 @@
 2. Wybrany Przewodniczący Zebrania zarządza przeprowadzenie wyboru 2 członków Komisji Skrutacyjnej, Wiceprzewodniczącego i          sekretarza. Do wyborów na te stanowiska stosuje się odpowiednio przepisy o wyborze Przewodniczącego Zebrania.
 3. Głosowanie nad wyborem Przewodniczącego i Wiceprzewodniczącego może być jawne jedynie, gdy żaden z członków nie wyrazi sprzeciwu wobec takiego trybu głosowania. Przepis niniejszy stosuje się odpowiednio przy wyborze sekretarzy i Komisji Skrutacyjnej.
 4. Prezydium Walnego Zebrania Członków składa się z:
- 1. Przewodniczącego
- 2. Wiceprzewodniczącego
- 3. Sekretarza,
+  1. Przewodniczącego
+  2. Wiceprzewodniczącego
+  3. Sekretarza,
 5. Komisja Skrutacyjna składa się z 2 członków.
 6. W skład Prezydium nie mogą wchodzić członkowie Zarządu aktualnie sprawujący swe funkcje.
 7. Po wyborze Komisji Skrutacyjnej i Prezydium Walnego Zebrania Członków, członkowie mają prawo zgłosić wnioski do wiceprzewodniczącego o wpisanie do porządku obrad proponowanych przez nich punktów. Następnie zebrani głosują nad uchwaleniem porządku obrad.
@@ -40,7 +40,7 @@
 3. Przewodniczący Walnego Zebrania udziela głosu według kolejności zapisu. Przewodniczący może ustalić inną kolejność rozmówców.
 4. Przewodniczący w porozumieniu z Zarządem może zaproponować Walnemu Zebraniu inny czas przemówień.
 ==== §5
-  Z obrad Walnego Zebrania Członków sporządza się protokół, który podpisuje pełny skład Prezydium.
+Z obrad Walnego Zebrania Członków sporządza się protokół, który podpisuje pełny skład Prezydium.
 == Rozdział II
 === Sprawy wyborcze
 ==== §6
@@ -70,13 +70,13 @@ momencie wybrania.
 1. Uchwały Walnego Zebrania, dla których nie zastrzeżono innego trybu wchodzą w życie z dniem ich uchwalenia.
 ==== § 12
 1. Porządek głosowania jest następujący:
- 1. głosowanie wniosku o odrzucenie projektu w całości, jeżeli wniosek taki został postawiony,
- 2. jeśli głosowanie obywa się nad przyjęciem lub odrzuceniem projektu Przewodniczący prosi o podniesienie ręki kolejno: osoby głosujące za, osoby głosujące przeciw i osoby wstrzymujące się od głosu,
- 3. Przewodniczący może zarządzić głosowanie w odwróconej kolejności (przeciw, wstrzymujący się, za) jeśli może to ułatwić i usprawnić procedurę głosowania,
- 4. W głosowaniu tajnym nad analogiczną propozycją na kartce wpisuje się jedną z następujących opcji: za, przeciw, wstrzymuję się.
- 5. Powyższe przepisy stosuje się także odpowiednio w głosowaniu na kandydatów na określone stanowisko,
- 6. jeśli pod głosowanie poddane są dwa lub więcej rozwiązań wzajemnie się wykluczających (głosowanie alternatywne) Przewodniczący prosi o podniesienie ręki kolejno: osoby głosujące za przyjęciem poszczególnych rozwiązań („za propozycją nr 1”, „za propozycją nr 2”...) , osoby wstrzymujące się od głosu i osoby głosujące przeciwko wszystkim rozwiązaniom.
- 7. W głosowaniu tajnym nad analogiczną propozycją na kartce wpisuje się jedną z następujących opcji: za przyjęciem poszczególnych rozwiązań („za propozycją nr 1”, „za propozycją nr 2”...) , osoby wstrzymujące się od głosu i osoby głosujące przeciwko wszystkim rozwiązaniom.
+  1. głosowanie wniosku o odrzucenie projektu w całości, jeżeli wniosek taki został postawiony,
+  2. jeśli głosowanie obywa się nad przyjęciem lub odrzuceniem projektu Przewodniczący prosi o podniesienie ręki kolejno: osoby głosujące za, osoby głosujące przeciw i osoby wstrzymujące się od głosu,
+  3. Przewodniczący może zarządzić głosowanie w odwróconej kolejności (przeciw, wstrzymujący się, za) jeśli może to ułatwić i usprawnić procedurę głosowania,
+  4. W głosowaniu tajnym nad analogiczną propozycją na kartce wpisuje się jedną z następujących opcji: za, przeciw, wstrzymuję się.
+  5. Powyższe przepisy stosuje się także odpowiednio w głosowaniu na kandydatów na określone stanowisko,
+  6. jeśli pod głosowanie poddane są dwa lub więcej rozwiązań wzajemnie się wykluczających (głosowanie alternatywne) Przewodniczący prosi o podniesienie ręki kolejno: osoby głosujące za przyjęciem poszczególnych rozwiązań („za propozycją nr 1”, „za propozycją nr 2”...) , osoby wstrzymujące się od głosu i osoby głosujące przeciwko wszystkim rozwiązaniom.
+  7. W głosowaniu tajnym nad analogiczną propozycją na kartce wpisuje się jedną z następujących opcji: za przyjęciem poszczególnych rozwiązań („za propozycją nr 1”, „za propozycją nr 2”...) , osoby wstrzymujące się od głosu i osoby głosujące przeciwko wszystkim rozwiązaniom.
 === Rozpatrywanie spraw planu pracy i budżetu
 ==== § 13
 1. Wniesione pod obrady Walnego Zebrania Członków projekty planu pracy i budżetu rozpatrywane są zgodnie z § 10.
@@ -85,13 +85,13 @@ momencie wybrania.
 1. Przewodniczący zebrania może udzielić głosu poza porządkiem obrad Walnego Zebrania Członków lub w związku z dyskusją jedynie dla zgłoszenia wniosku formalnego lub sprostowania błędnie zrozumianego lub nieprecyzyjnie przytoczonego stwierdzenia mówcy.
 2. Wnioski formalne mogą dotyczyć jedynie spraw będących przedmiotem porządku obrad i jego przebiegu.
 3. Do wniosków formalnych zalicza się wnioski o:
- 1. przerwanie lub odroczenie Walnego Zebrania Członków na termin kolejnego ogłoszonego Walnego Zebrania Członków,
- 2. przejście do porządku obrad,
- 3. głosowanie bez dyskusji,
- 4. zmianę porządku obrad,
- 5. ograniczenie czasu wystąpień mówców,
- 6. stwierdzenie kworum,
- 7. przeliczenie głosów,
+  1. przerwanie lub odroczenie Walnego Zebrania Członków na termin kolejnego ogłoszonego Walnego Zebrania Członków,
+  2. przejście do porządku obrad,
+  3. głosowanie bez dyskusji,
+  4. zmianę porządku obrad,
+  5. ograniczenie czasu wystąpień mówców,
+  6. stwierdzenie kworum,
+  7. przeliczenie głosów,
 4. O wniosku formalnym, o którym mowa w punkcie 3. Walne Zebranie Członków rozstrzyga się większością głosów obecnych członków.
 5. Wnioski formalne nie podlegają dyskusji, są jedynie poddawane głosowaniu.
 === Podejmowanie apeli i oświadczeń
