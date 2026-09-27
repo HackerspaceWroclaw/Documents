@@ -1,8 +1,6 @@
 #import "@local/hswro:0.0.1"
 
-#show: hswro.template.with(
-  document_date: datetime(year: 2024, month: 10, day: 14),
-)
+#show: hswro.template.with(document_date: datetime(year: 2024, month: 10, day: 14))
 
 = Regulamin Lokalu Hackerspace Wrocław
 

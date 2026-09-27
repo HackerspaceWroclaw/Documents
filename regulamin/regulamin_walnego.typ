@@ -1,14 +1,9 @@
 #import "@local/hswro:0.0.1"
 
-#show: hswro.template.with(
-  document_date: datetime.today(),
-)
+#show: hswro.template.with(document_date: datetime.today())
 
-// #set heading(numbering: )
 #show heading: set align(center)
-// #show heading: set text(font: "Inria Serif")
 #show heading: it => block[#it]
-//#set page("a4", margin: (y: 2cm),)
 
 = Regulamin Walnego Zebrania Członków
 
